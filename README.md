@@ -40,6 +40,5 @@ This project analyzes customer and campaign data to identify the key factors inf
 
 
 
-Executive Summary
 
-This project analyzes customer and campaign data to identify the key factors influencing term deposit subscription. The analysis reveals that customers in the working-age group, those with higher account balances, and individuals contacted through the cellular channel show a higher likelihood of subscribing. Campaign timing also plays an important role, with mid-year months generating stronger conversion outcomes. Additionally, customers with successful past campaign interactions demonstrate a significantly higher probability of future conversion. These insights can help the bank optimize customer targeting, improve campaign efficiency, and enhance overall conversion rates in future marketing initiatives.
+
