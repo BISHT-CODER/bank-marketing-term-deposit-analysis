@@ -1,4 +1,4 @@
-####Project Background
+###Project Background
 
 The banking institution conducts direct marketing campaigns to promote term deposit products among its existing customers. These campaigns are carried out through different communication channels such as cellular and telephone calls. Despite significant outreach efforts, the overall conversion rate for term deposit subscriptions remains relatively low, highlighting the need for a data-driven approach to improve campaign effectiveness.
 
